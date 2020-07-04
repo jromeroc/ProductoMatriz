@@ -19,8 +19,8 @@ Programado con javascript usando el entorno nodejs para ver los resultados por l
 Reto de matrices en Platzi Master.
 
 #### Imagenes
-#####Matrices
+##### Matrices
 ![](https://raw.githubusercontent.com/jromeroc/ProductoMatriz/master/src/matriz.png)
 
-#####Resultado
+##### Resultado
 ![](https://raw.githubusercontent.com/jromeroc/ProductoMatriz/master/src/result.png)
