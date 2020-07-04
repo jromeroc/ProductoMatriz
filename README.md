@@ -3,11 +3,12 @@ Multiplica 2 matrices sin el uso de funciones.
 
 ### Requisitos 🔧
 - [nodejs](https://nodejs.org/es/)
+
+
+#### Ejecución del script
 - Asigna la primera matriz a la variable A
 - Asigna la segunda matriz a la variable B
 - Ejecuta el script y mira el resultado.
-
-#### Ejecución del script
 'node producto.js'
 
 ### Sobre este script :fa-file-code-o:
@@ -19,7 +20,7 @@ Reto de matrices en Platzi Master.
 
 #### Imagenes
 #####Matrices
-![](https://raw.githubusercontent.com/jromeroc/ProductoMatriz/src/matriz.png)
+![](https://raw.githubusercontent.com/jromeroc/ProductoMatriz/master/src/matriz.png)
 
 #####Resultado
-![](https://raw.githubusercontent.com/jromeroc/ProductoMatriz/src/result.png)
+![](https://raw.githubusercontent.com/jromeroc/ProductoMatriz/master/src/result.png)
